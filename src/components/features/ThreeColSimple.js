@@ -54,24 +54,24 @@ export default ({
   cards = [
     {
       imageSrc: ShieldIconImage,
-      title: "Secure",
-      description: "We strictly only deal with vendors that provide top notch security.",
-      url: "https://timerse.com"
+      title: "Quizlet Sets",
+      description: "Custom Quizlet sets created based off of 2021 LASA AP Chinese IV assigned excerpts, projects, and videos.",
+      url: "https://quizlet.com/juliading_/folders/2021-ap-chinese-sets/sets"
     },
     {
       imageSrc: SupportIconImage,
-      title: "24/7 Support",
-      description: "Lorem ipsum donor amet siti ceali placeholder text",
-      url: "https://google.com"
+      title: "Shows & Webnovels",
+      description: "Watching Chinese TV shows - ex. Link Viki, Bilibili, and Xi Yang Yang - and reading webnovels will help in vocabulary practice.",
+      url: "https://shubaow.net"
     },
     {
       imageSrc: CustomizeIconImage,
-      title: "Customizable",
-      description: "Lorem ipsum donor amet siti ceali placeholder text",
-      url: "https://reddit.com"
+      title: "Chrome Extension",
+      description: "The Zhongwen Google Chrome Extension will help you easily learn Chinese vocabulary on the web, anywhere.",
+      url: "https://chrome.google.com/webstore/detail/zhongwen-chinese-english/kkmlkkjojmombglmlpbpapmhcaljjkde?hl=en"
     }
   ],
-  linkText = "Learn More",
+  linkText = "Go",
   heading = "",
   subheading = "",
   description = "",

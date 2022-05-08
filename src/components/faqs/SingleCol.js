@@ -40,28 +40,28 @@ const DecoratorBlob2 = styled(SvgDecoratorBlob2)`
 
 export default ({
   subheading = "FAQS",
-  heading = "You have Questions ?",
-  description = "And we have got answers to all of them. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+  heading = "Frequently Asked Questions",
+  description = "",
   faqs = [
     {
-      question: "Is lunch provided free of cost ?",
+      question: "How advanced will the characters be? 词语会多难？",
       answer:
-        "Yes, it is, if you have a membership with us. Otherwise it is charged as per the menu. Some limits do apply as to how much items can be included in your lunch. This limit is enough for any one person and merely exists to discourage abusal of the system."
+        "The test is about an HSK level 4. You need to be able to converse on a wide range of topics, but you do not need to be extremely advanced. 考试是HSK4。你需要谈广泛的问题，但是词语可以比较简单。"
     },
     {
-      question: "Do you have 2 Bedroom suites ?",
+      question: "How do you practice speaking and listening at home? 怎么能在家里练习听说？",
       answer:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "If you have family members or friends that speak Chinese, you can practice with them on a daily basis. If not, you can practice reading essays and other vocabulary aloud. You can also watch and listen to Chinese podcasts, movies, and videos. 如果你的家人或者朋友说中文，你可以跟他们练习听说。否则，你可以练习说文章和另外的词语。你还可以听中文演播，和看中文电影和视频。"
     },
     {
-      question: "Are Wi-Fi costs included in the price ?",
+      question: "How important is culture in the AP test? 在AP考试里，文化有什么重要？",
       answer:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "Culture is very important in the AP test. You need be able to reference festivals/holidays, activities, and history. In speaking sections, you should always be prepared to talk about cultural signifance. 在AP考试文化很重要。你需要参考节日，活动，和历史。说话的时候，你也需要讲中国文化的重要。"
     },
     {
-      question: "Where can I reach you for support ?",
+      question: "How long does the test take? 考试要多少时间？",
       answer:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "2-3 hours. 二到三个小时。"
     }
   ]
 }) => {

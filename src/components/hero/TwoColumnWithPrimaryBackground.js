@@ -31,9 +31,9 @@ const PrimaryButton = tw(PrimaryButtonBase)`mt-8 text-sm sm:text-base px-6 py-5 
 const Image = tw.img`w-144 ml-auto`
 
 export default ({
-  heading = "High Performant Servers tailored to your needs",
-  description = "Our cloud provisions the best servers, with fast SSD, powerful Xeon Processors, whenever you need it. Oh, and we have 99.9% SLA",
-  primaryButtonText = "Start Your 15 Day Free Trial",
+  heading = "AP Chinese Guide",
+  description = "A comprehensive guide to everything you need to know to prepare for AP Chinese. Made by LASA students, for LASA students.",
+  primaryButtonText = "Explore",
   primaryButtonUrl = "#",
   imageSrc = serverIllustrationImageSrc,
 }) => {
