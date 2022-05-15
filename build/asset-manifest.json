@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/apchinesestudyguide/static/css/main.1dfcdcc1.css",
+    "main.js": "/apchinesestudyguide/static/js/main.e0d77293.js",
+    "static/js/787.f203d7b0.chunk.js": "/apchinesestudyguide/static/js/787.f203d7b0.chunk.js",
+    "static/media/dot-pattern.svg": "/apchinesestudyguide/static/media/dot-pattern.ee6f4f0e6654d6e38850896165f9dc36.svg",
+    "static/media/design-illustration.svg": "/apchinesestudyguide/static/media/design-illustration.415c277c5396f5d93e398f34f14d8267.svg",
+    "index.html": "/apchinesestudyguide/index.html",
+    "static/media/svg-decorator-blob-3.svg": "/apchinesestudyguide/static/media/svg-decorator-blob-3.de3cee31b9fcddf16b65056335c6f8e0.svg",
+    "static/media/support-icon.svg": "/apchinesestudyguide/static/media/support-icon.f9253ffa8cb6ffde5bbaa05eb5136375.svg",
+    "static/media/customize-icon.svg": "/apchinesestudyguide/static/media/customize-icon.367468c90fd796009b97fbfba67b2c6a.svg",
+    "static/media/svg-decorator-blob-1.svg": "/apchinesestudyguide/static/media/svg-decorator-blob-1.882b52f533a5f881fbac3178df042bb0.svg",
+    "static/media/shield-icon.svg": "/apchinesestudyguide/static/media/shield-icon.daefe14b320b14fbd9cbd18908ac93ec.svg",
+    "static/media/svg-decorator-blob-8.svg": "/apchinesestudyguide/static/media/svg-decorator-blob-8.46d53f6b637ec792eff69fa98170e560.svg",
+    "static/media/svg-decorator-blob-7.svg": "/apchinesestudyguide/static/media/svg-decorator-blob-7.04fa60c9416090a003233f93c9de14b1.svg",
+    "static/media/arrow-right-icon.svg": "/apchinesestudyguide/static/media/arrow-right-icon.c4ea6a92d136f418f96b1c9e930f56cc.svg",
+    "static/media/menu.svg": "/apchinesestudyguide/static/media/menu.644fa295fdd5f662e642ba6bfb084239.svg",
+    "static/media/play-circle.svg": "/apchinesestudyguide/static/media/play-circle.dcf880c0306a61d5aa81ec2960fa6e90.svg",
+    "static/media/x.svg": "/apchinesestudyguide/static/media/x.6c9a4ba71a333be7b021fc6da39d864c.svg",
+    "static/media/logo.svg": "/apchinesestudyguide/static/media/logo.2c489fc453a1783cbadacf914efa3df6.svg",
+    "static/media/chevron-down.svg": "/apchinesestudyguide/static/media/chevron-down.c3e123cf78bc368a192f3e2dee97daba.svg",
+    "main.1dfcdcc1.css.map": "/apchinesestudyguide/static/css/main.1dfcdcc1.css.map",
+    "main.e0d77293.js.map": "/apchinesestudyguide/static/js/main.e0d77293.js.map",
+    "787.f203d7b0.chunk.js.map": "/apchinesestudyguide/static/js/787.f203d7b0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dfcdcc1.css",
+    "static/js/main.e0d77293.js"
+  ]
+}
